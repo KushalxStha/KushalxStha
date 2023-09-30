@@ -1,5 +1,8 @@
+https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif
+
 <h1 align="center">Hi 👋, I'm Kushal Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<img align="right" alt="Coding" width="350" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalxstha&label=Profile%20views&color=0e75b6&style=flat" alt="kushalxstha" /> </p>
 
