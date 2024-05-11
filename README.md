@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" /></p>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kushal-Shrestha/Kushal-Shrestha/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KushalxShrestha/KushalxShrestha/output/github-contribution-grid-snake.svg" />
