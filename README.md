@@ -33,4 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" /></p>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KushalxShrestha/KushalxShrestha/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake.svg">
+</picture>
