@@ -23,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react" /><br>
-    <img src="https://skillicons.dev/icons?i=git,nodejs,express,mongodb,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,nodejs,express,mongodb,mysql,postman,csharp" />
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" /></p>
