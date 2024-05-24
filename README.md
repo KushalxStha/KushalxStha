@@ -19,9 +19,9 @@
 </div>
 <hr>
 <h3 align="left">Stats:</h3>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" /></div>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalxstha&show_icons=true&locale=en" alt="kushalxstha" /></div>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=kushalxstha&show_icons=true&locale=en" alt="kushalxstha" /></div>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" /></div>
 <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake-dark.svg">
