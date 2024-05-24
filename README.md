@@ -13,16 +13,15 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,git" /><br>
     <img src="https://skillicons.dev/icons?i=github,nodejs,express,mongodb,mysql,postman,cs" />
 </div>
-<hr>
+<hr style="height: 1px;">
 <h3 align="left">Stats:</h3>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" /></div>
-<div><img src="https://github-readme-stats.vercel.app/api?username=kushalxstha&show_icons=true&locale=en" alt="kushalxstha" /></div>
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" /></div>
-<hr>
+<hr style="height: 1px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake.svg">
