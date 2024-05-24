@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=00008B&duration=4000&lines=Hi+There!+👋;+I'm+Kushal+Shrestha;" />
 </h1>
 <img align="right" alt="Coding" width="350" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-
-- 📫 How to reach me **kushal_stha@outlook.com**
+📫 How to reach me **kushal_stha@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -17,11 +16,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,git" /><br>
     <img src="https://skillicons.dev/icons?i=github,nodejs,express,mongodb,mysql,postman,cs" />
 </div>
-<hr style="height: 1px;">
+
+<hr style="height: 1px; border:none;">
 <h3 align="left">Stats:</h3>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" /></div>
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" /></div>
-<hr style="height: 1px;">
+<div style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" />
+</div>
+<div style="display: inline-block;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" />
+</div>
+
+<hr style="height: 1px; border:none;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KushalxStha/KushalxStha/output/github-contribution-grid-snake.svg">
