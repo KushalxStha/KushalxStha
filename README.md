@@ -15,15 +15,15 @@
 <a href="https://twitter.com/KushalxStha" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kushalzstha" /></a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--- <h3 align="left">Languages and Tools:</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwind,react,git" /><br>
     <img src="https://skillicons.dev/icons?i=github,nodejs,express,mongodb,mysql,postman,cs" />
-</div>
+</div> -->
 
 <h3 align="left">Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" />
 </div>
 
