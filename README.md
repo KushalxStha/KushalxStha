@@ -6,7 +6,7 @@
 <!--- 🌱 I’m currently learning ** .. **-->
 <!--- 👨‍💻 All of my projects are available .. -->
 
-- 📫 How to reach me **kushal_stha@outlook.com**
+- 📫 How to reach me **shresthakushal61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -23,7 +23,7 @@
 
 <h3 align="left">Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" />&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" />
 </div>
 
