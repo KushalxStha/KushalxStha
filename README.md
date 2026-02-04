@@ -24,7 +24,6 @@
 <h3 align="left">Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalxstha&show_icons=true&locale=en&layout=compact" alt="kushalxstha" />&nbsp;&nbsp;&nbsp;&nbsp; -->
-<img src="https://streak-stats.demolab.com/?user=kushalxstha" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalxstha&" alt="kushalxstha" />
 </div>
 
